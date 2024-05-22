@@ -12,7 +12,7 @@ There are numerous missing values in the data. Various methods exist to address 
 #### Here are the top 10 models.
 ![Screenshot 2024-05-22 154122](https://github.com/niketkumar9865/Vehicle-Sales/assets/164625136/6446eb6b-8ccb-45b2-b9cb-e6064007aff4)
 
-#### Which category is the best seller?
+#### Which category is the best selling?
 ![Screenshot 2024-05-22 154537](https://github.com/niketkumar9865/Vehicle-Sales/assets/164625136/0836be63-6bdd-42e4-a9eb-cbacd9694628)
 
 #### Which color is the most appealing?
